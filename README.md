@@ -1,7 +1,7 @@
 # MediConnect – Sécurisation de l'infrastructure réseau
 
 > Projet de sécurité réseau · Efrei Paris Panthéon-Assas Université
-> **Hugo JUZYNA** · Promotion 2028 · 2026-2027
+> **Enzo JUZYNA · Hugo JUZYNA** · Promotion 2028 · 2026-2027
 
 Conception et mise en œuvre, sous VMware, de l'infrastructure réseau sécurisée de **MediConnect**, une plateforme de prise de rendez-vous médicaux répartie sur deux sites.
 
